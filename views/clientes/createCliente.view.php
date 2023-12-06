@@ -54,9 +54,6 @@ require_once '../../layouts/headerview.php';
                                 <label for="direccion" class="form-label">Direccion</label>
                                 <input type="text" class="form-control" id="direccion" name="direccion" required>
                             </div>
-                        </div>
-
-                        <div class="row mb-3">
                             <div class="col-md-3">
                                 <label for="direccion2" class="form-label">Direccion 2</label>
                                 <input type="text" class="form-control" id="direccion2" name="direccion2" required>
