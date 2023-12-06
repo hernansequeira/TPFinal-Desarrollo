@@ -7,10 +7,8 @@
             <!--end::To the end-->
             <!--begin::Copyright-->
             <strong>
-                Copyright &copy; 2014-2023
-                <a href="https://adminlte.io">AdminLTE.io</a>.
-            </strong>
-            All rights reserved.
+                
+            
             <!--end::Copyright-->
         </footer>
         <!--end::Footer-->
