@@ -13,16 +13,10 @@ require_once '../../layouts/headerview.php';
             <div class="row">
                 <div class="col-sm-6">
                     <h3 class="mb-0">Clientes</h3><br>
+                    
                     <td><a href="../../controllers/clientes/createCliente.php" class="btn btn-success">Crear nuevo cliente</a></td>
-
                 </div>
                 <div class="col-sm-6">
-                    <ol class="breadcrumb float-sm-end">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">
-                            Clientes
-                        </li>
-                    </ol>
                 </div>
             </div>
             <!--end::Row-->
@@ -74,15 +68,18 @@ require_once '../../layouts/headerview.php';
                     </tbody>
                 </table>
             </div>
-            
+
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
 
         </body>
 
         </html>
-        <!--end::Container-->
     </div>
-    <!--end::App Content-->
 </main>
+<script>
+    $(document).ready(function() {
+        $('#listaUsuarios').DataTable({});
+    });
+</script>
 
 <?php require_once '../../layouts/footerview.php'; ?>

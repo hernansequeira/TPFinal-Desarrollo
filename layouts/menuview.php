@@ -25,7 +25,7 @@
                             <a href="#" class="nav-link active">
                                 <i class="nav-icon bi bi-speedometer"></i>
                                 <p>
-                                    Administracion
+                                    Administración
                                     <i class="nav-arrow bi bi-chevron-right"></i>
                                 </p>
                             </a>
@@ -420,7 +420,7 @@
                             </a>
                         </li>
                     </ul>
-                    <!--end::Sidebar Menu-->
+                    end::Sidebar Menu-->
                 </nav>
             </div>
             <!--end::Sidebar Wrapper-->
