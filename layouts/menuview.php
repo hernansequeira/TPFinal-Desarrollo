@@ -31,7 +31,7 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="../clientes/index.php" class="nav-link active">
+                                    <a href="../clientes/index.php" class="nav-link">
                                     <i class="bi bi-person"></i>
                                         <p>Clientes</p>
                                     </a>
