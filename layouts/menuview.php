@@ -26,7 +26,7 @@
                                 <i class="nav-icon bi bi-speedometer"></i>
                                 <p>
                                     Administración
-                                    <i class="nav-arrow bi bi-chevron-right"></i>
+                                    <i class=""></i>
                                 </p>
                             </a>
                             <ul class="nav nav-treeview">
