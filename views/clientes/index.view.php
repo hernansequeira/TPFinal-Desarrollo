@@ -12,8 +12,8 @@ require_once '../../layouts/headerview.php';
                     <!--begin::Row-->
                     <div class="row">
                         <div class="col-sm-6">
-                            <h3 class="mb-0">Clientes</h3>
-                            <td><a href="../../controllers/clientes/createCliente.php" class="btn btn-success">Crear Nuevo Cliente</a></td>
+                            <h3 class="mb-0">Clientes</h3><br><td><a href="../../controllers/clientes/createCliente.php" class="btn btn-success">Crear nuevo cliente</a></td>
+                            
                         </div>
                         <div class="col-sm-6">
                             <ol class="breadcrumb float-sm-end">
